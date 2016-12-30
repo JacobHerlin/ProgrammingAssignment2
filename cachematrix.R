@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This program contains two functions, makeCacheMatrix and cacheSolve
+## the first creates a vector object representing a matrix, containing
+## functions to pull and modify the value of the matrix and its inverse.
+## the cacheSolve function returns the inverse of the matrix, by computing
+## it if nessecary, or pulling it from the vector if it can.
 
 ## The function "makeCacheMatrix" takes a matrix and returns a
 ## "matrix" which is really a vector of four functions, which
